@@ -1,0 +1,26 @@
+{
+  "education": [
+    "bachelor-degree.md",
+    "high-school.md"
+  ],
+  "skills": [
+    "javascript.md",
+    "react.md",
+    "python.md"
+  ],
+  "projects": [
+    "portfolio-website.md"
+  ],
+  "publications": [
+    "ml-fairness-healthcare.md"
+  ],
+  "podcasts": [
+    "test-podcast.md"
+  ],
+  "videos": [
+    "test-video.md"
+  ],
+  "awards": [
+    "deans-list.md"
+  ]
+}
